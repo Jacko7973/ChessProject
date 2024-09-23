@@ -11,11 +11,11 @@ A rudimentary implementation of Chess using C with X11 graphics. Submitted as a 
 
 This is an early project of mine, and I hope to return to it and correct some sortcomings / add extended features that would greatly improve the quality of this project.
 
-[ ] Eliminate memory leakage
-[ ] Improve resource usage
-[ ] Implement network multiplayer functionality
-[ ] Implement play-against-computer mode
-[ ] Upgrade graphics/rednering quality
+- [ ] Eliminate memory leakage
+- [ ] Improve resource usage
+- [ ] Implement network multiplayer functionality
+- [ ] Implement play-against-computer mode
+- [ ] Upgrade graphics/rednering quality
 
 
 ### Usage
