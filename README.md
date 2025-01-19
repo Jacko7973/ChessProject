@@ -1,7 +1,6 @@
 # ChessProject
 ## Jack O'Connor
 
-----------------
 
 ### Description
 
